@@ -1,0 +1,15 @@
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\bin\Debug\net7.0\NumeroExtenso.exe
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\bin\Debug\net7.0\NumeroExtenso.deps.json
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\bin\Debug\net7.0\NumeroExtenso.runtimeconfig.json
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\bin\Debug\net7.0\NumeroExtenso.dll
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\bin\Debug\net7.0\NumeroExtenso.pdb
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\obj\Debug\net7.0\NumeroExtenso.csproj.AssemblyReference.cache
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\obj\Debug\net7.0\NumeroExtenso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\obj\Debug\net7.0\NumeroExtenso.AssemblyInfoInputs.cache
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\obj\Debug\net7.0\NumeroExtenso.AssemblyInfo.cs
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\obj\Debug\net7.0\NumeroExtenso.csproj.CoreCompileInputs.cache
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\obj\Debug\net7.0\NumeroExtenso.dll
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\obj\Debug\net7.0\refint\NumeroExtenso.dll
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\obj\Debug\net7.0\NumeroExtenso.pdb
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\obj\Debug\net7.0\NumeroExtenso.genruntimeconfig.cache
+C:\Users\jully\OneDrive\Documentos\NumeroExtenso\obj\Debug\net7.0\ref\NumeroExtenso.dll
